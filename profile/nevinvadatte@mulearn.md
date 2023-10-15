@@ -1,8 +1,8 @@
-# Full Name 
+# Nevin V Adatte
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a passionate individual with a love for technology and a knack for problem-solving. I am a fourth-year B.Tech Student at the College of Engineering and Management, Punnapra. I recently worked on using the Django framework to create web applications. Also trying to build simple projects to sharpen my skills. In my free time, I enjoy hiking and am committed to lifelong learning. My goal is to make a positive impact on the world through my work and personal pursuits.
 
 
 ### Portfolio Highlights
