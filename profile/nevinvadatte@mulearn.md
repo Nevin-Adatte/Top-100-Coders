@@ -13,7 +13,7 @@
 
 - 
 
-#### Networking: `required field`
+#### Networking: 
 
 - Part of the Gtech Mulearn Web Development and pygrammars as a student and mentor. I've encountered some truly exceptional individuals.
 - Co-founder of Iniciohive, a freelance company with 5 members.
