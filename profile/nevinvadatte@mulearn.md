@@ -9,13 +9,15 @@
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- 
 
 #### Networking: `required field`
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- Part of the Gtech Mulearn Web Development and pygrammars as a student and mentor. I've encountered some truly exceptional individuals.
+- Co-founder of Iniciohive, a freelance company with 5 members.
+- Found Many great people from the NASTech event by NASSCOM.
 
 #### As a Top 100 Member: `required field`
 
